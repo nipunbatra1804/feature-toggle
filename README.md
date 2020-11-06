@@ -1,4 +1,4 @@
 # feature-toggle
 
 feature A = true
-feature B = false
+feature B = true
